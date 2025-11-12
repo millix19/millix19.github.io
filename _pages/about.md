@@ -12,7 +12,10 @@ Hi! I am a Master's student at Carnegie Mellon University's Language Technologie
 
 My interests are broadly in large-scale machine learning and natual language processing.
 
+**I am currently applying for Fall 2026 PhD programs, please contact me emilyx@cs.cmu.edu if you're interested in collaborating!**
+
 Previously:
 - Undergrad @ UC Berkeley
 - MLE @ Tiktok Search Recommendation
-- MLE intern @ Instagam Reels Feed Recommendation
+- MLE Intern @ Instagam Reels Feed Recommendation
+- Tech Startups
