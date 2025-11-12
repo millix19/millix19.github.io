@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Master's student at Carnegie Mellon University's Language Technologies Institute, advised by <a href="https://www.phontron.com/">Professor Graham Neubig</a> and <a href="https://www.cs.cmu.edu/~cx/">Professor Chenyan Xiong</a>. 
+Hi! I'm a Master's student at Carnegie Mellon University's Language Technologies Institute, advised by <a href="https://www.phontron.com/">Professor Graham Neubig</a> and <a href="https://www.cs.cmu.edu/~cx/">Professor Chenyan Xiong</a>. 
 
 My interests are broadly in large-scale machine learning and natual language processing.
 
-**I am currently applying for Fall 2026 PhD programs, please contact me emilyx@cs.cmu.edu if you're interested in collaborating!**
+**I'm applying for Fall 2026 PhD programs, please contact me emilyx@cs.cmu.edu if you're interested in collaborating!**
 
 Previously:
 - Undergrad @ UC Berkeley
