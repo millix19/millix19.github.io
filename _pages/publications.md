@@ -22,12 +22,12 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=_TwmK
 
 **Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention**
 <br />**Emily Xiao**, Chin-Jou Li, Yilin Zhang, Graham Neubig, Amanda Bertsch
-<br />*ACL 2025*
+<br />*ACL 2025 main*
 <br />[[Paper](https://aclanthology.org/2025.acl-long.1542/)] [[Code](https://github.com/millix19/dbsa)] [[ArXiv](https://arxiv.org/abs/2503.08640)]
 
 **In-context learning with long-context models: An in-depth exploration**
 <br />Amanda Bertsch, Maor Ivgi, **Emily Xiao**, Uri Alon, Jonathan Berant, Matthew R Gormley, Graham Neubig
-<br />*NAACL 2025* **🏆 SAC Award for Language Modeling**
+<br />*NAACL 2025 main* *🏆 SAC Award for Language Modeling*
 <br />[[Paper](https://aclanthology.org/2025.naacl-long.605/)] [[Code](https://github.com/abertsch72/long-context-icl)] [[ArXiv](https://arxiv.org/abs/2405.00200)]
 
 **Automatically generating cause-and-effect questions from passages**
