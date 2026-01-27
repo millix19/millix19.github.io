@@ -12,7 +12,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=_TwmK
 
 **Prompt-MII: Meta-Learning Instruction Induction for LLMs**
 <br />**Emily Xiao**, Yixiao Zeng, Ada Chen, Chin-Jou Li, Amanda Bertsch, Graham Neubig
-<br />*Preprint. Under Review.*
+<br />*ICLR 2026*
 <br />[[Paper](https://arxiv.org/abs/2510.16932)] [[Code](https://github.com/millix19/promptmii)]
 
 **DATE-LM: Benchmarking Data Attribution Evaluation for Large Language Models**
